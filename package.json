@@ -1,0 +1,22 @@
+{
+  "name": "quantstamp-contracts-js",
+  "version": "1.0.0",
+  "description": "I express uPort contracts and IPFS as javascript for deeper understanding how it work. Honestly, I don't confident whether my understanding is correct even though I took care to be accurate as long as possible referring to white paper and Github and official documents. Please check documents for accurate info.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tak1827/quantstamp-contracts-js.git"
+  },
+  "author": "tak1827",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tak1827/quantstamp-contracts-js/issues"
+  },
+  "homepage": "https://github.com/tak1827/quantstamp-contracts-js#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
