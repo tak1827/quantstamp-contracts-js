@@ -1,6 +1,6 @@
-# Express uPort as javascript
+# Express Quantstamp as javascript
 
-I express uPort contracts and IPFS as javascript for deeper understanding how it work. Honestly, I don't confident whether my understanding is correct even though I took care to be accurate as long as possible referring to white paper and Github and official documents. Please check documents for accurate info.
+Quantstamp is a smart contract security audit system by scalable and cost-effective way. I express Quantstamp contracts as Javascript for better understanding. Please refer to white paper or official blog for more information.
 
 ## Get started
 
@@ -11,18 +11,10 @@ I express uPort contracts and IPFS as javascript for deeper understanding how it
 `node main.js`<br>
 If I puck pack all process into main.js, it will hard to read. So I will divide into several branches. Please checkout.
 
-## Set IPFS hash to Registry
-Please checkout 'set-ipfs-hash-to-registry' branch and refer to following blog post for further information.<br>
+## Audit completed
+Please checkout 'audit-completed' branch and refer to following blog post for further information.<br>
 
-Blog Post: [Express uPort as javascript — Set IPFS hash to Registry Contract](https://medium.com/@t.tak/express-uport-as-javascript-set-ipfs-hash-to-registry-contract-600c2dbf8404)
+Blog Post: [Express Quantstamp contracts as javascript - Audit completed](https://medium.com/@t.tak/express-quantstamp-contracts-as-javascript-audit-completed-c53930cf7ed3)
 <br>
 
-![alt set-hash img inside of white paper](img/set-hash.png)<br>
-
-## Relay transaction to 3rd party Dapp
-Please checkout 'relay-tx-to-3rdparty-dapp' branch and refer to following blog post for further information.<br>
-
-Blog Post: [Express uPort as javascript - Relay transaction to 3rd party Dapp](https://medium.com/@t.tak/express-uport-as-javascript-relay-transaction-to-3rd-party-dapp-12fd226acc2f)
-<br>
-
-![alt relay-tx img inside of white paper](img/relay-tx.png)
+![alt qst-audit-completed img inside of white paper](img/qst-audit-completed.png)<br>

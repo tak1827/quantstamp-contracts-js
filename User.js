@@ -1,6 +1,3 @@
-// const { randomBytes } = require('crypto');
-// const { privateToAddress } = require('ethereumjs-util');
-
 class User {
   
   constructor() {
